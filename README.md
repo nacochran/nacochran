@@ -1,4 +1,7 @@
-## Hi there 👋
+## Heya!
+My name is Nathan Cochran, and I'm a passionate developer who loves working on creative software projects. 
+
+🔭 I’m currently working on paintball.io, a first-person shooter built using Three.js as the rendering tool on the front-end and Node.js + Express.js on the back end.
 
 <!--
 **nacochran/nacochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
