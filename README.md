@@ -1,7 +1,7 @@
 ## Heya!
 My name is Nathan Cochran, and I'm a passionate developer who loves working on creative software projects. 
 
-Check out my portfolio [here]([url](https://www.nathancochran.com/))!
+Check out my portfolio [here](https://www.nathancochran.com/)!
 
 <!--
 **nacochran/nacochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
